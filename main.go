@@ -6,5 +6,5 @@ import (
 )
 
 func main() {
-    aeropuerto.Run()  // Renombra la función main en internal/aeropuerto/main.go a Run()
+    aeropuerto.Run()  
 }

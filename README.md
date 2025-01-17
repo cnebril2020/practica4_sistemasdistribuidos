@@ -1,5 +1,5 @@
 # practica4_sistemasdistribuidos
-
+```
 $> tree .
 .
 ├── 4_practica_ssoo_dist.pdf
@@ -14,3 +14,4 @@ $> tree .
 │       └── servidor.go
 ├── main.go
 └── README.md
+```
